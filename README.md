@@ -1,7 +1,5 @@
 # Email-Classification
 
-project website link: 
-
 # Project UI Demo
 
 <p float="left">
